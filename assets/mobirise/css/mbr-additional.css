@@ -3476,6 +3476,120 @@ body {
     padding-bottom: 1rem;
   }
 }
+.cid-qVIVEFysDY {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qVIVEFysDY .subicon-title {
+  color: #000000;
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qVIVEFysDY .subicon-text {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qVIVEFysDY .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-qVIVEFysDY .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #444444;
+  display: inline-block;
+}
+.cid-qVIVEFysDY .process-icon,
+.cid-qVIVEFysDY .process-icon-without-before {
+  width: 100%;
+  padding-bottom: 2rem;
+}
+.cid-qVIVEFysDY .wrapper,
+.cid-qVIVEFysDY .wrapper-without-before {
+  position: relative;
+  margin-bottom: 2rem;
+}
+.cid-qVIVEFysDY .wrapper::before {
+  content: '\e966';
+  font-family: MobiriseIcons !important;
+  position: absolute;
+  font-size: 30px;
+  left: -15px;
+  top: 30%;
+  color: #8fcfe4;
+  opacity: .4;
+}
+.cid-qVIVEFysDY .icon-container {
+  display: inline-flex;
+  position: relative;
+}
+.cid-qVIVEFysDY .icon-container a {
+  display: inherit;
+}
+.cid-qVIVEFysDY .icon-number {
+  text-align: center;
+  height: 2.5em;
+  width: 2.5em;
+  margin: 0;
+  line-height: 2.5em;
+  top: 0;
+  right: 0;
+  position: absolute;
+  display: inline-block;
+  background-color: #fff900 !important;
+  transition: all 0.3s ease-in-out 0s;
+  border-radius: 50%;
+  color: #000000;
+  z-index: 1;
+}
+.cid-qVIVEFysDY .icon-main {
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 0;
+  transition: all 0.3s ease-in-out 0s;
+}
+.cid-qVIVEFysDY .icon-main:hover .icon-wrapper {
+  background-color: #fff900 !important;
+}
+.cid-qVIVEFysDY .icon-main:hover .icon-number {
+  background-color: #8fcfe4 !important;
+  color: #000000 !important;
+}
+.cid-qVIVEFysDY .icon-wrapper {
+  position: relative;
+  z-index: 1;
+  padding: 0.9em;
+  height: 100%;
+  margin: 0 auto;
+  transition: all 0.3s ease-in-out 0s;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #ffffff;
+}
+.cid-qVIVEFysDY .main-wrapper {
+  padding: 3rem 0 0 0;
+}
+@media (max-width: 767px) {
+  .cid-qVIVEFysDY .wrapper::before {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qVIVEFysDY .third-elem .wrapper:before {
+    display: none;
+  }
+}
+.cid-qVIVEFysDY .mbr-section-title {
+  margin: 0;
+}
+.cid-qVIVEFysDY .mbr-section-subtitle {
+  color: #232323;
+  text-align: center;
+}
 .cid-qIUmHtj8Gi {
   padding-top: 30px;
   padding-bottom: 30px;
